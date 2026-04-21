@@ -1,0 +1,21 @@
+{
+    "name": "elephant-php/duration",
+    "description": "Duration is a small immutable value object representing elapsed time.",
+    "keywords": ["duration", "duration time", "value object", "vo", "no magic value"],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Elephant\\Duration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pekhov14",
+            "email": "pehovanton21@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
