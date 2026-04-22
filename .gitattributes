@@ -1,0 +1,4 @@
+tests/           export-ignore
+testo.php        export-ignore
+.gitattributes   export-ignore
+Makefile         export-ignore
